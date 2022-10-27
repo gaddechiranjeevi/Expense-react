@@ -1,0 +1,19 @@
+.item {
+    color: rgb(230, 29, 29);
+    text-align: left;
+    margin: auto;
+}
+
+.title1 {
+     text-align: left;
+}
+
+.title {
+    color: black;
+}
+
+.form {
+    background-color: antiquewhite;
+    text-align: left;
+    margin: auto;
+}

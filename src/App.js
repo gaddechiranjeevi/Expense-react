@@ -1,14 +1,10 @@
-import ExpenseItem from './components/ExpenseItem';
-
-function App() {
+import {ExpenseItem,LocationOfExpense} from './components/ExpenseItem';
+export default function App() {
   return (
     <div>
       <ExpenseItem></ExpenseItem>
-      <p>Food Rs 10</p>
-      <p>Petrol Rs 100</p>
-      <p>Movies Rs 200</p>
+      <LocationOfExpense></LocationOfExpense>
     </div>
   );
 }
 
-export default App;
