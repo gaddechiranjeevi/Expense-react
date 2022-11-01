@@ -2,7 +2,7 @@ import './ExpenseItem.css';
 
 function ExpenseItem(){
    const expenseDate = new Date(2022,12,20);
-   const expenseTitle = 'car insurance';
+   const expenseTitle = 'Car Insurance';
    const expenseAmount = 350;
    return ( 
    <div className='form'>
